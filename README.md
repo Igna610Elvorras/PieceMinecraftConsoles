@@ -3,6 +3,14 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/dH8AZWGcau)
 
+---
+## IMPORTANT UPDATE
+**This repo was moved to a new org!** 
+
+Please change all links and references from `smartcmd/MinecraftConsoles` to `MCLCE/MinecraftConsoles` instead.
+
+---
+
 This project is based on source code of Minecraft Legacy Console Edition v1.6.0560.0 (TU19) with some fixes and improvements applied. 
 
 The current goal of MinecraftConsoles is to be a multi-platform base for further development, such as modding, backports, and anything else LCE. On top of that, we're working to make this a quality experience on Desktop with or without a controller while (long-term) retaining console support. 
