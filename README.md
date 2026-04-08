@@ -19,9 +19,9 @@ See our our [Contributor's Guide](./CONTRIBUTING.md) for more information on the
 
 ## Download 
 ### Client
-Windows users can download our [Nightly Build](https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly)! Simply download the `.zip` file and extract it to a folder where you'd like to keep the game. You can set your username in `username.txt` (you'll have to make this file)
+Windows users can download our [Nightly Build](https://github.com/MCLCE/MinecraftConsoles/releases/tag/nightly)! Simply download the `.zip` file and extract it to a folder where you'd like to keep the game. You can set your username in `username.txt` (you'll have to make this file)
 ### Server
-If you're looking for Dedicated Server software, download its [Nightly Build here](https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly-dedicated-server). Similar instructions to the client more or less, though see further down in this README for more info on that.
+If you're looking for Dedicated Server software, download its [Nightly Build here](https://github.com/MCLCE/MinecraftConsoles/releases/tag/nightly-dedicated-server). Similar instructions to the client more or less, though see further down in this README for more info on that.
 
 ## Platform Support
 
@@ -228,4 +228,4 @@ For more information, see [COMPILE.md](COMPILE.md).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=smartcmd/MinecraftConsoles&type=date&legend=top-left)](https://www.star-history.com/?spm=a2c6h.12873639.article-detail.7.7b9d7fabjNxTRk#smartcmd/MinecraftConsoles&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=MCLCE/MinecraftConsoles&type=date&legend=top-left)](https://www.star-history.com/?spm=a2c6h.12873639.article-detail.7.7b9d7fabjNxTRk#MCLCE/MinecraftConsoles&type=date&legend=top-left)
